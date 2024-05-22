@@ -1,1 +1,1 @@
-# PythonGPT
+PythonGPT is a comprehensive project aimed at developing a large language model from scratch using Python and PyTorch. Through structured modules and hands-on exercises, it delves into the intricate world of natural language processing and deep learning to construct a powerful language model capable of generating coherent text.
